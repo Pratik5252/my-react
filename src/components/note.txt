@@ -1,0 +1,52 @@
+MNiU56kK6TKAxksF
+
+
+
+import React from 'react';
+import Waveform from '../waveform';
+import kick from '../audio/pew.mp3'
+
+function Sound() {
+  return (
+    <main className=' relative box-border bg-orange-200'>
+      <div className='p-4 w-full h-screen '>
+      {/* <h1 className=' w-1/3'><Waveform audio={kick}/></h1> */}
+      <h1 className='text-center text-4xl  font-mono'>SOUND LIBRARY</h1>
+      <div className='py-6 text-lg font-semibold'>
+        <p>SAMPLES</p>
+      </div>
+      <div className=''>
+      <div className='grid grid-flow-col border-t-[1px] border-b-[1px] border-black'>
+        <p>Filename</p>
+        <div></div>
+        <p>Key</p>
+        <p>BPM</p>
+        <p></p>
+      </div>
+      <div className='grid grid-
+       border-b-[1px] border-black'>
+        <p>KICK</p>
+        <p className='w-1/2'><Waveform audio={kick}/></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </div>
+      </div>
+      </div>
+    </main>
+  )
+}
+
+export default Sound;
+
+
+responsive: true,
+      barWidth: 2,
+      height: 40,
+      backend: 'WebAudio',
+      sampleRate: 76000,
+      waveColor: '#EFEFEF',
+      progressColor: '#2D5BFF',
+      cursorWidth: 0,
+      barRadius: 5,
+

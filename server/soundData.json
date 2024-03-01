@@ -1,0 +1,926 @@
+[
+  {
+    "_id": "Ace Tuned Clear Snare",
+    "sound": "/audio/Ace Tuned Clear Snare.mp3",
+    "Name": "Ace Tuned Clear Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "al pieneta Crisp Hihat Loop 112",
+    "sound": "/audio/al pieneta Crisp Hihat Loop 112.mp3",
+    "Name": "al pieneta Crisp Hihat Loop 112",
+    "Key": "-",
+    "Bpm": 112
+  },
+  {
+    "_id": "Alien Drone Long FX One Shot",
+    "sound": "/audio/Alien Drone Long FX One Shot.mp3",
+    "Name": "Alien Drone Long FX One Shot",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Autosave Dynamic Rap Hihat Loop 90",
+    "sound": "/audio/Autosave Dynamic Rap Hihat Loop 90.mp3",
+    "Name": "Autosave Dynamic Rap Hihat Loop 90",
+    "Key": "-",
+    "Bpm": 90
+  },
+  {
+    "_id": "Bap Tribe Dark Dirty Hihat Loop 146",
+    "sound": "/audio/Bap Tribe Dark Dirty Hihat Loop 146.mp3",
+    "Name": "Bap Tribe Dark Dirty Hihat Loop 146",
+    "Key": "-",
+    "Bpm": 146
+  },
+  {
+    "_id": "Be Swaggy Rimshot Snare",
+    "sound": "/audio/Be Swaggy Rimshot Snare.mp3",
+    "Name": "Be Swaggy Rimshot Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Blasted Cassette FX One Shot",
+    "sound": "/audio/Blasted Cassette FX One Shot.mp3",
+    "Name": "Blasted Cassette FX One Shot",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Bongo Bounce Rhythmic Percussion Loop 2 120",
+    "sound": "/audio/Bongo Bounce Rhythmic Percussion Loop 2 120.mp3",
+    "Name": "Bongo Bounce Rhythmic Percussion Loop 2 120",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Bongo Bounce Staccto Simple Percussion Loop 120",
+    "sound": "/audio/Bongo Bounce Staccto Simple Percussion Loop 120.mp3",
+    "Name": "Bongo Bounce Staccto Simple Percussion Loop 120",
+    "Key": "-",
+    "Bpm": 120
+  },
+  {
+    "_id": "Bouncy Pitchy Conga Percussion Loop 105",
+    "sound": "/audio/Bouncy Pitchy Conga Percussion Loop 105.mp3",
+    "Name": "Bouncy Pitchy Conga Percussion Loop 105",
+    "Key": "-",
+    "Bpm": 105
+  },
+  {
+    "_id": "Bouncy Pitchy Conga Syncopated Percussion Loop 2 105",
+    "sound": "/audio/Bouncy Pitchy Conga Syncopated Percussion Loop 2 105.mp3",
+    "Name": "Bouncy Pitchy Conga Syncopated Percussion Loop 2 105",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Brash Full Metal Kick",
+    "sound": "/audio/Brash Full Metal Kick.mp3",
+    "Name": "Brash Full Metal Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Brashhh Hard Snare",
+    "sound": "/audio/Brashhh Hard Snare.mp3",
+    "Name": "Brashhh Hard Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Bright Crisp Grilled Hihat 2",
+    "sound": "/audio/Bright Crisp Grilled Hihat 2.mp3",
+    "Name": "Bright Crisp Grilled Hihat 2",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Bright Crisp Grilled Hihat",
+    "sound": "/audio/Bright Crisp Grilled Hihat.mp3",
+    "Name": "Bright Crisp Grilled Hihat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Bright Crisp Grilled Open Hihat",
+    "sound": "/audio/Bright Crisp Grilled Open Hihat.mp3",
+    "Name": "Bright Crisp Grilled Open Hihat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Bright Idea Tone Kick",
+    "sound": "/audio/Bright Idea Tone Kick.mp3",
+    "Name": "Bright Idea Tone Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Bulletproof Bounce Shaker Hihat Loop 120",
+    "sound": "/audio/Bulletproof Bounce Shaker Hihat Loop 120.mp3",
+    "Name": "Bulletproof Bounce Shaker Hihat Loop 120",
+    "Key": "-",
+    "Bpm": 120
+  },
+  {
+    "_id": "Castanette Crisp Crunch Clean Texture Percussion Loop 120",
+    "sound": "/audio/Castanette Crisp Crunch Clean Texture Percussion Loop 120.mp3",
+    "Name": "Castanette Crisp Crunch Clean Texture Percussion Loop 120",
+    "Key": "-",
+    "Bpm": 120
+  },
+  {
+    "_id": "Castanette Crisp Crunch Clean Texture Percussion Loop 2 120",
+    "sound": "/audio/Castanette Crisp Crunch Clean Texture Percussion Loop 2 120.mp3",
+    "Name": "Castanette Crisp Crunch Clean Texture Percussion Loop 2 120",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Cat Meow Aggressive Analog FX One Shot",
+    "sound": "/audio/Cat Meow Aggressive Analog FX One Shot.mp3",
+    "Name": "Cat Meow Aggressive Analog FX One Shot",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Cat Meow Distorted Analog FX One Shot",
+    "sound": "/audio/Cat Meow Distorted Analog FX One Shot.mp3",
+    "Name": "Cat Meow Distorted Analog FX One Shot",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Chirp Direct Full Kick",
+    "sound": "/audio/Chirp Direct Full Kick.mp3",
+    "Name": "Chirp Direct Full Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Chord Blip Analog FX One Shot",
+    "sound": "/audio/Chord Blip Analog FX One Shot.mp3",
+    "Name": "Chord Blip Analog FX One Shot",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Chord Blip Chime Analog FX One Shot",
+    "sound": "/audio/Chord Blip Chime Analog FX One Shot.mp3",
+    "Name": "Chord Blip Chime Analog FX One Shot",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Chord Blip High Analog FX One Shot",
+    "sound": "/audio/Chord Blip High Analog FX One Shot.mp3",
+    "Name": "Chord Blip High Analog FX One Shot",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Clack Bright Clean Layered Rimshot Snare",
+    "sound": "/audio/Clack Bright Clean Layered Rimshot Snare.mp3",
+    "Name": "Clack Bright Clean Layered Rimshot Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Clack Roll Texture Crisp Clean Percussion Loop 120",
+    "sound": "/audio/Clack Roll Texture Crisp Clean Percussion Loop 120.mp3",
+    "Name": "Clack Roll Texture Crisp Clean Percussion Loop 120",
+    "Key": "-",
+    "Bpm": 120
+  },
+  {
+    "_id": "Clack Roll Texture Crisp Clean Percussion Loop 3 120",
+    "sound": "/audio/Clack Roll Texture Crisp Clean Percussion Loop 3 120.mp3",
+    "Name": "Clack Roll Texture Crisp Clean Percussion Loop 3 120",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Clack Roll Texture Syncopated Halftime Crisp Clean Percussion Loop 2 120",
+    "sound": "/audio/Clack Roll Texture Syncopated Halftime Crisp Clean Percussion Loop 2 120.mp3",
+    "Name": "Clack Roll Texture Syncopated Halftime Crisp Clean Percussion Loop 2 120",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Clean Analog Oscillator Wobble FX One Shot",
+    "sound": "/audio/Clean Analog Oscillator Wobble FX One Shot.mp3",
+    "Name": "Clean Analog Oscillator Wobble FX One Shot",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Clear Tone Hihat 2",
+    "sound": "/audio/Clear Tone Hihat 2.mp3",
+    "Name": "Clear Tone Hihat 2",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Clear Tone Hihat 3",
+    "sound": "/audio/Clear Tone Hihat 3.mp3",
+    "Name": "Clear Tone Hihat 3",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Clear Tone Hihat 4",
+    "sound": "/audio/Clear Tone Hihat 4.mp3",
+    "Name": "Clear Tone Hihat 4",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Clear Tone Hihat 5",
+    "sound": "/audio/Clear Tone Hihat 5.mp3",
+    "Name": "Clear Tone Hihat 5",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Clear Tone Hihat 6",
+    "sound": "/audio/Clear Tone Hihat 6.mp3",
+    "Name": "Clear Tone Hihat 6",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Clear Tone Hihat 7",
+    "sound": "/audio/Clear Tone Hihat 7.mp3",
+    "Name": "Clear Tone Hihat 7",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Clear Tone Hihat",
+    "sound": "/audio/Clear Tone Hihat.mp3",
+    "Name": "Clear Tone Hihat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Cluck Clean Texture Percussion Loop 155",
+    "sound": "/audio/Cluck Clean Texture Percussion Loop 155.mp3",
+    "Name": "Cluck Clean Texture Percussion Loop 155",
+    "Key": "-",
+    "Bpm": 155
+  },
+  {
+    "_id": "Crackle Hat Loop",
+    "sound": "/audio/Crackle Hat Loop.wav",
+    "Name": "Crackle Hat Loop",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Crunchy Bite Wide Clap Snare",
+    "sound": "/audio/Crunchy Bite Wide Clap Snare.mp3",
+    "Name": "Crunchy Bite Wide Clap Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Cymatics - 9God Melody Loop 10 - 170 BPM G Min",
+    "sound": "/audio/Cymatics - 9God Melody Loop 10 - 170 BPM G Min.mp3",
+    "Name": "Cymatics - 9God Melody Loop 10 - 170 BPM G Min",
+    "Key": "G Min",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Cymatics - 9God Melody Loop 2 - 128 BPM F Min",
+    "sound": "/audio/Cymatics - 9God Melody Loop 2 - 128 BPM F Min.mp3",
+    "Name": "Cymatics - 9God Melody Loop 2 - 128 BPM F Min",
+    "Key": "F Min",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Cymatics - 9God Melody Loop 7 - 150 BPM C Min",
+    "sound": "/audio/Cymatics - 9God Melody Loop 7 - 150 BPM C Min.mp3",
+    "Name": "Cymatics - 9God Melody Loop 7 - 150 BPM C Min",
+    "Key": "C Min",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Cymatics - 9God Melody Loop 8 - 150 BPM B Min",
+    "sound": "/audio/Cymatics - 9God Melody Loop 8 - 150 BPM B Min.mp3",
+    "Name": "Cymatics - 9God Melody Loop 8 - 150 BPM B Min",
+    "Key": "B Min",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Cymatics - 9God Melody Loop 9 - 160 BPM D Min",
+    "sound": "/audio/Cymatics - 9God Melody Loop 9 - 160 BPM D Min.mp3",
+    "Name": "Cymatics - 9God Melody Loop 9 - 160 BPM D Min",
+    "Key": "D Min",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Da New Bounce Groove Hihat Loop 137",
+    "sound": "/audio/Da New Bounce Groove Hihat Loop 137.mp3",
+    "Name": "Da New Bounce Groove Hihat Loop 137",
+    "Key": "-",
+    "Bpm": 137
+  },
+  {
+    "_id": "Dap Punch Snare",
+    "sound": "/audio/Dap Punch Snare.mp3",
+    "Name": "Dap Punch Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Dapper Clack Staccato Percussion Loop 100",
+    "sound": "/audio/Dapper Clack Staccato Percussion Loop 100.mp3",
+    "Name": "Dapper Clack Staccato Percussion Loop 100",
+    "Key": "-",
+    "Bpm": 100
+  },
+  {
+    "_id": "Dark Swing Bouncy Boom Bap Hihat Loop 89",
+    "sound": "/audio/Dark Swing Bouncy Boom Bap Hihat Loop 89.mp3",
+    "Name": "Dark Swing Bouncy Boom Bap Hihat Loop 89",
+    "Key": "-",
+    "Bpm": 89
+  },
+  {
+    "_id": "Deep Bow Gut Kick",
+    "sound": "/audio/Deep Bow Gut Kick.mp3",
+    "Name": "Deep Bow Gut Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Deep Side Punch Kick",
+    "sound": "/audio/Deep Side Punch Kick.mp3",
+    "Name": "Deep Side Punch Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Detuned Analog Short FX One Shot",
+    "sound": "/audio/Detuned Analog Short FX One Shot.mp3",
+    "Name": "Detuned Analog Short FX One Shot",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Different Strokes Bright Hihat Loop 121",
+    "sound": "/audio/Different Strokes Bright Hihat Loop 121.mp3",
+    "Name": "Different Strokes Bright Hihat Loop 121",
+    "Key": "-",
+    "Bpm": 121
+  },
+  {
+    "_id": "Dirty Fat Reverb Clap Snare",
+    "sound": "/audio/Dirty Fat Reverb Clap Snare.mp3",
+    "Name": "Dirty Fat Reverb Clap Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Dome Broken Layered Kick",
+    "sound": "/audio/Dome Broken Layered Kick.mp3",
+    "Name": "Dome Broken Layered Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Dreamlike Pad Alarm Reverb Delay Long FX One Shot",
+    "sound": "/audio/Dreamlike Pad Alarm Reverb Delay Long FX One Shot.mp3",
+    "Name": "Dreamlike Pad Alarm Reverb Delay Long FX One Shot",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Dreamlike Pad Alarm Reverb Full Deep FX One Shot",
+    "sound": "/audio/Dreamlike Pad Alarm Reverb Full Deep FX One Shot.mp3",
+    "Name": "Dreamlike Pad Alarm Reverb Full Deep FX One Shot",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Ear Candy Brass Kick",
+    "sound": "/audio/Ear Candy Brass Kick.mp3",
+    "Name": "Ear Candy Brass Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Energy Clear Snare",
+    "sound": "/audio/Energy Clear Snare.mp3",
+    "Name": "Energy Clear Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Faded Head Nod Hihat Loop 140",
+    "sound": "/audio/Faded Head Nod Hihat Loop 140.mp3",
+    "Name": "Faded Head Nod Hihat Loop 140",
+    "Key": "-",
+    "Bpm": 140
+  },
+  {
+    "_id": "Gritty Dark Hihat",
+    "sound": "/audio/Gritty Dark Hihat.mp3",
+    "Name": "Gritty Dark Hihat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Gritty Dark Open Hihat",
+    "sound": "/audio/Gritty Dark Open Hihat.mp3",
+    "Name": "Gritty Dark Open Hihat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Head Explosion Stomp Kick",
+    "sound": "/audio/Head Explosion Stomp Kick.mp3",
+    "Name": "Head Explosion Stomp Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Higher Pitched Rimshot Sidestick Snare",
+    "sound": "/audio/Higher Pitched Rimshot Sidestick Snare.mp3",
+    "Name": "Higher Pitched Rimshot Sidestick Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Hit The Blunt Simple Hihat Loop 131",
+    "sound": "/audio/Hit The Blunt Simple Hihat Loop 131.mp3",
+    "Name": "Hit The Blunt Simple Hihat Loop 131",
+    "Key": "-",
+    "Bpm": 131
+  },
+  {
+    "_id": "Hollow Different Double Hat",
+    "sound": "/audio/Hollow Different Double Hat.mp3",
+    "Name": "Hollow Different Double Hat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Hollow Different Ghost Hihat",
+    "sound": "/audio/Hollow Different Ghost Hihat.mp3",
+    "Name": "Hollow Different Ghost Hihat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Hollow Different Plick Hihat Roll",
+    "sound": "/audio/Hollow Different Plick Hihat Roll.mp3",
+    "Name": "Hollow Different Plick Hihat Roll",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Hollow Different Plick Hihat",
+    "sound": "/audio/Hollow Different Plick Hihat.mp3",
+    "Name": "Hollow Different Plick Hihat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Hollow Direct Punchy Snare",
+    "sound": "/audio/Hollow Direct Punchy Snare.mp3",
+    "Name": "Hollow Direct Punchy Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Jonesin Saturated Kick",
+    "sound": "/audio/Jonesin Saturated Kick.mp3",
+    "Name": "Jonesin Saturated Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "LoFi Live Dark Hihat",
+    "sound": "/audio/LoFi Live Dark Hihat.mp3",
+    "Name": "LoFi Live Dark Hihat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "LoFi Live Dark Open Hihat",
+    "sound": "/audio/LoFi Live Dark Open Hihat.mp3",
+    "Name": "LoFi Live Dark Open Hihat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Lush Bright Tone Hihat 2",
+    "sound": "/audio/Lush Bright Tone Hihat 2.mp3",
+    "Name": "Lush Bright Tone Hihat 2",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Lush Bright Tone Hihat 3",
+    "sound": "/audio/Lush Bright Tone Hihat 3.mp3",
+    "Name": "Lush Bright Tone Hihat 3",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Lush Bright Tone Hihat",
+    "sound": "/audio/Lush Bright Tone Hihat.mp3",
+    "Name": "Lush Bright Tone Hihat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Magic Warm Bassy Kick",
+    "sound": "/audio/Magic Warm Bassy Kick.mp3",
+    "Name": "Magic Warm Bassy Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Mellow Knock Teeth Snare",
+    "sound": "/audio/Mellow Knock Teeth Snare.mp3",
+    "Name": "Mellow Knock Teeth Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Mid High Punch Kick",
+    "sound": "/audio/Mid High Punch Kick.mp3",
+    "Name": "Mid High Punch Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Midnight Pitch Roll Hihat Loop 142",
+    "sound": "/audio/Midnight Pitch Roll Hihat Loop 142.mp3",
+    "Name": "Midnight Pitch Roll Hihat Loop 142",
+    "Key": "-",
+    "Bpm": 142
+  },
+  {
+    "_id": "Move You Dance Pop Hihat Loop 109",
+    "sound": "/audio/Move You Dance Pop Hihat Loop 109.mp3",
+    "Name": "Move You Dance Pop Hihat Loop 109",
+    "Key": "-",
+    "Bpm": 109
+  },
+  {
+    "_id": "Muddy Direct Punchy Snare",
+    "sound": "/audio/Muddy Direct Punchy Snare.mp3",
+    "Name": "Muddy Direct Punchy Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "NL Bright Cut Hat",
+    "sound": "/audio/NL Bright Cut Hat.mp3",
+    "Name": "NL Bright Cut Hat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "NL Bright Phaser Hat",
+    "sound": "/audio/NL Bright Phaser Hat.mp3",
+    "Name": "NL Bright Phaser Hat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Nuckin Futs Loud Kick",
+    "sound": "/audio/Nuckin Futs Loud Kick.mp3",
+    "Name": "Nuckin Futs Loud Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Oh Me Oh My Rimshot Snare",
+    "sound": "/audio/Oh Me Oh My Rimshot Snare.mp3",
+    "Name": "Oh Me Oh My Rimshot Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Op Jangler Perc Loop",
+    "sound": "/audio/Op Jangler Perc Loop.wav",
+    "Name": "Op Jangler Perc Loop",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Perc Layered Kick",
+    "sound": "/audio/Perc Layered Kick.mp3",
+    "Name": "Perc Layered Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Perfect Thick Warm Kick",
+    "sound": "/audio/Perfect Thick Warm Kick.mp3",
+    "Name": "Perfect Thick Warm Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Perpetrate Knock Layer Kick",
+    "sound": "/audio/Perpetrate Knock Layer Kick.mp3",
+    "Name": "Perpetrate Knock Layer Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Pinch Pluck Hihat",
+    "sound": "/audio/Pinch Pluck Hihat.mp3",
+    "Name": "Pinch Pluck Hihat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Pop Present Rimshot Snare",
+    "sound": "/audio/Pop Present Rimshot Snare.mp3",
+    "Name": "Pop Present Rimshot Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Prip Short Crisp Clap Snare",
+    "sound": "/audio/Prip Short Crisp Clap Snare.mp3",
+    "Name": "Prip Short Crisp Clap Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Qualm Dark Short Rimshot Snare",
+    "sound": "/audio/Qualm Dark Short Rimshot Snare.mp3",
+    "Name": "Qualm Dark Short Rimshot Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Quiet Perc Kick",
+    "sound": "/audio/Quiet Perc Kick.mp3",
+    "Name": "Quiet Perc Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Rah Distorted Layered Snare",
+    "sound": "/audio/Rah Distorted Layered Snare.mp3",
+    "Name": "Rah Distorted Layered Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Rattle Cluck Snare",
+    "sound": "/audio/Rattle Cluck Snare.mp3",
+    "Name": "Rattle Cluck Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Rich Sidestick Rimshot Snare",
+    "sound": "/audio/Rich Sidestick Rimshot Snare.mp3",
+    "Name": "Rich Sidestick Rimshot Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Ricochet Rimshot Snare",
+    "sound": "/audio/Ricochet Rimshot Snare.mp3",
+    "Name": "Ricochet Rimshot Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Rilly Pluck Hihat",
+    "sound": "/audio/Rilly Pluck Hihat.mp3",
+    "Name": "Rilly Pluck Hihat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Ruck Fuck Puck Snare",
+    "sound": "/audio/Ruck Fuck Puck Snare.mp3",
+    "Name": "Ruck Fuck Puck Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Serg Inspired Bright Ignorant Trap Hihat 1",
+    "sound": "/audio/Serg Inspired Bright Ignorant Trap Hihat 1.mp3",
+    "Name": "Serg Inspired Bright Ignorant Trap Hihat 1",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Serg Inspired Bright Ignorant Trap Hihat 2",
+    "sound": "/audio/Serg Inspired Bright Ignorant Trap Hihat 2.mp3",
+    "Name": "Serg Inspired Bright Ignorant Trap Hihat 2",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Serg Inspired Bright Ignorant Trap Hihat 3",
+    "sound": "/audio/Serg Inspired Bright Ignorant Trap Hihat 3.mp3",
+    "Name": "Serg Inspired Bright Ignorant Trap Hihat 3",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Serg Inspired Bright Ignorant Trap Hihat 4",
+    "sound": "/audio/Serg Inspired Bright Ignorant Trap Hihat 4.mp3",
+    "Name": "Serg Inspired Bright Ignorant Trap Hihat 4",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Shake The Room Stomp Kick",
+    "sound": "/audio/Shake The Room Stomp Kick.mp3",
+    "Name": "Shake The Room Stomp Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Short Funk Low Kick",
+    "sound": "/audio/Short Funk Low Kick.mp3",
+    "Name": "Short Funk Low Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Short Rimshot Roll Snare",
+    "sound": "/audio/Short Rimshot Roll Snare.mp3",
+    "Name": "Short Rimshot Roll Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Short Sidestick Rimshot Snare",
+    "sound": "/audio/Short Sidestick Rimshot Snare.mp3",
+    "Name": "Short Sidestick Rimshot Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Soft Smooth High Kick",
+    "sound": "/audio/Soft Smooth High Kick.mp3",
+    "Name": "Soft Smooth High Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Some Coins In The Pocket Snare",
+    "sound": "/audio/Some Coins In The Pocket Snare.mp3",
+    "Name": "Some Coins In The Pocket Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "SP-12 High Kick",
+    "sound": "/audio/SP-12 High Kick.mp3",
+    "Name": "SP-12 High Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Spectacle Direct Warm Kick",
+    "sound": "/audio/Spectacle Direct Warm Kick.mp3",
+    "Name": "Spectacle Direct Warm Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Swift Clipped Punchy Kick",
+    "sound": "/audio/Swift Clipped Punchy Kick.mp3",
+    "Name": "Swift Clipped Punchy Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Tak Hihat 1",
+    "sound": "/audio/Tak Hihat 1.mp3",
+    "Name": "Tak Hihat 1",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Tak Hihat 2",
+    "sound": "/audio/Tak Hihat 2.mp3",
+    "Name": "Tak Hihat 2",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Tak Hihat 3",
+    "sound": "/audio/Tak Hihat 3.mp3",
+    "Name": "Tak Hihat 3",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Tap High Low Kick",
+    "sound": "/audio/Tap High Low Kick.mp3",
+    "Name": "Tap High Low Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Texture Knock Punch Kick",
+    "sound": "/audio/Texture Knock Punch Kick.mp3",
+    "Name": "Texture Knock Punch Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "TikTok Hihat 2",
+    "sound": "/audio/TikTok Hihat 2.mp3",
+    "Name": "TikTok Hihat 2",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "TikTok Hihat",
+    "sound": "/audio/TikTok Hihat.mp3",
+    "Name": "TikTok Hihat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "TikTok Open Hihat",
+    "sound": "/audio/TikTok Open Hihat.mp3",
+    "Name": "TikTok Open Hihat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "TikTok Reverse Hihat",
+    "sound": "/audio/TikTok Reverse Hihat.mp3",
+    "Name": "TikTok Reverse Hihat",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Top To Bottom Low Kick",
+    "sound": "/audio/Top To Bottom Low Kick.mp3",
+    "Name": "Top To Bottom Low Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Trap Goals Short Rimshot Snare",
+    "sound": "/audio/Trap Goals Short Rimshot Snare.mp3",
+    "Name": "Trap Goals Short Rimshot Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Trick Hihat Roll",
+    "sound": "/audio/Trick Hihat Roll.mp3",
+    "Name": "Trick Hihat Roll",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Trick Quick Hihat Roll",
+    "sound": "/audio/Trick Quick Hihat Roll.mp3",
+    "Name": "Trick Quick Hihat Roll",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Warm Tube Saturation Kick",
+    "sound": "/audio/Warm Tube Saturation Kick.mp3",
+    "Name": "Warm Tube Saturation Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "WON Hard Smooth Kick",
+    "sound": "/audio/WON Hard Smooth Kick.mp3",
+    "Name": "WON Hard Smooth Kick",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Yanny Distorted Layered Snare",
+    "sound": "/audio/Yanny Distorted Layered Snare.mp3",
+    "Name": "Yanny Distorted Layered Snare",
+    "Key": "-",
+    "Bpm": "-"
+  },
+  {
+    "_id": "Zilch Clear Bead Layer Rimshot Snare",
+    "sound": "/audio/Zilch Clear Bead Layer Rimshot Snare.mp3",
+    "Name": "Zilch Clear Bead Layer Rimshot Snare",
+    "Key": "-",
+    "Bpm": "-"
+  }
+]
