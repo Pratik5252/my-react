@@ -48,7 +48,7 @@ function SoundDesign() {
                 <h1 className="text-left text-xl font-display font-bold text-black px-5 border-black border-s-[10px]">
                   What is sound design?
                 </h1>
-                <div className="bg-gray-300/80 rounded my-2">
+                <div className=" rounded my-2">
                   <ul className="text-left text-sm md:text-md lg:text-lg font-display text-black px-3  list-inside">
                     <div className="p-3  lg:bg-cover hover:scale-95 overflow-clip hover:duration-300 hover:ease-in-out">
                       <img
@@ -129,7 +129,7 @@ function SoundDesign() {
                 <h1 className="text-left text-xl font-display font-bold text-black px-5 border-black border-s-[10px]">
                   Sound design tools
                 </h1>
-                <div className="bg-gray-300/80 rounded my-2">
+                <div className=" rounded my-2">
                   <ul className="text-left text-sm md:text-md lg:text-lg font-display text-black px-3  list-inside">
                     <p className="py-2">
                       Sound design is so open-ended that almost any process in

@@ -80,7 +80,7 @@ function Mixing() {
                 <h1 className="text-left text-xl font-display font-bold text-black px-5 border-black border-s-[10px]">
                   How to EQ: A guide to master EQ
                 </h1>
-                <div className="bg-gray-300/80 rounded my-2">
+                <div className=" rounded my-2">
                   <ul className="text-left text-sm md:text-md lg:text-lg font-display text-black px-3  list-inside">
                     <p className="py-2">
                       An EQ is a super versatile tool. Sound designers will use
@@ -229,7 +229,7 @@ function Mixing() {
                 <h1 className="text-left text-xl font-display font-bold text-black px-5 border-black border-s-[10px]">
                   Compression 101: How to Use a Compressor for a Better Mix
                 </h1>
-                <div className="bg-gray-300/80 rounded my-2">
+                <div className=" rounded my-2">
                   <ul className="text-left text-sm md:text-md lg:text-lg font-display text-black px-5  list-inside">
                     <p className="py-2">
                       Compression reduces the overall dynamic range of a piece
@@ -404,7 +404,7 @@ function Mixing() {
                 <h1 className="text-left text-xl font-display font-bold text-black px-5 border-black border-s-[10px]">
                   Static Mix Technique: How to Start Your Mix With Confidence
                 </h1>
-                <div className="bg-gray-300/80 rounded my-2">
+                <div className=" rounded my-2">
                   <ul className="text-left text-sm md:text-md lg:text-lg font-display text-black px-5  list-inside">
                     <li className="py-2">
                       Another excellent sound selection tip is to start
@@ -600,7 +600,7 @@ function Mixing() {
                 <h1 className="text-left text-xl font-display font-bold text-black px-5 border-black border-s-[10px]">
                   Headroom in Audio
                 </h1>
-                <div className="bg-gray-300/80 rounded my-2">
+                <div className=" rounded my-2">
                   <ul className="text-left text-sm md:text-md lg:text-lg font-display text-black px-5  list-inside">
                     <li className="py-2">
                       It comes into play whenever you record tracks, add plugins

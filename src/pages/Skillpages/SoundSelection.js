@@ -49,7 +49,7 @@ function SoundSelection() {
                 <h1 className="text-left text-xl font-display font-bold text-black px-5 border-black border-s-[10px]">
                   Stick to a genre or mood.
                 </h1>
-                <div className="bg-gray-300/80 rounded my-2">
+                <div className=" rounded my-2">
                   <ul className="text-left text-sm md:text-md lg:text-lg font-display text-black px-3  list-inside">
                     <li className="py-2">
                       When selecting sounds for your track, it is essential to
@@ -131,7 +131,7 @@ function SoundSelection() {
                 <h1 className="text-left text-xl font-display font-bold text-black px-5 border-black border-s-[10px]">
                   Collect sounds before you start producing.
                 </h1>
-                <div className="bg-gray-300/80 rounded my-2">
+                <div className=" rounded my-2">
                   <ul className="text-left text-sm md:text-md lg:text-lg font-display text-black px-3  list-inside">
                     <li className="py-2">
                       Another excellent sound selection tip is to start
@@ -168,7 +168,7 @@ function SoundSelection() {
                 <h1 className="text-left text-xl font-display font-bold text-black px-5 border-black border-s-[10px]">
                   Get inspired by other artists’ sound selection choices.
                 </h1>
-                <div className="bg-gray-300/80 rounded my-2">
+                <div className=" rounded my-2">
                   <ul className="text-left text-sm md:text-md lg:text-lg font-display text-black px-3  list-inside">
                     <li className="py-2">
                       Don’t be afraid to get inspired by and “steal” the types

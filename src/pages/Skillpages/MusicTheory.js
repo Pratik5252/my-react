@@ -46,7 +46,7 @@ function SoundDesign() {
                 <h1 className="text-left text-xl font-display font-bold text-black px-5 border-black border-s-[10px]">
                   What is music theory?
                 </h1>
-                <div className="bg-gray-300/80 rounded my-2">
+                <div className="rounded my-2">
                   <ul className="text-left text-sm md:text-md lg:text-lg font-display text-black px-3  list-inside">
                     <div className="p-3  lg:bg-cover hover:scale-95 overflow-clip hover:duration-300 hover:ease-in-out">
                       <img
@@ -119,7 +119,7 @@ function SoundDesign() {
                 <h1 className="text-left text-xl font-display font-bold text-black px-5 border-black border-s-[10px]">
                   Getting started with the basics of music
                 </h1>
-                <div className="bg-gray-300/80 rounded my-2">
+                <div className=" rounded my-2">
                   <ul className="text-left text-sm md:text-md lg:text-lg font-display text-black px-3  list-inside">
                     <p className="py-2">
                       I’m talking about the primary building blocks that every

@@ -81,7 +81,7 @@ function Learn() {
             <h1 className="text-left text-xl font-display font-bold text-black px-5 border-black border-s-[10px]">
               What is Music Production?
             </h1>
-            <div className="bg-gray-300 rounded my-3">
+            <div className=" rounded my-3">
               <div className="px-6 sm:px-14 md:px-12 py-3">
                 <div className="aspect-w-9 aspect-h-5 md:aspect-w-9 md:aspect-h-4">
                   <iframe
@@ -116,7 +116,7 @@ function Learn() {
             <h1 className="text-left text-xl font-display font-bold text-black px-5 border-black border-s-[10px]">
               What is a DAW?
             </h1>
-            <div className="bg-gray-300 rounded my-3">
+            <div className=" rounded my-3">
               <div className="px-6 sm:px-14 md:px-12 py-3">
                 <div className="aspect-w-9 aspect-h-5 md:aspect-w-9 md:aspect-h-4">
                   <iframe
